@@ -37,6 +37,7 @@ before = paths-debian.conf
 
 # The DEFAULT allows a global definition of the options. They can be overridden
 # in each jail afterwards.
+#
 
 [DEFAULT]
 
